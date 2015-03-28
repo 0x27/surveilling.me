@@ -1,0 +1,299 @@
+Cisco with Lawful Intercept Enabled,196.43.208.0
+Cisco with Lawful Intercept Enabled,178.205.103.115
+Cisco with Lawful Intercept Enabled,87.245.177.27
+Cisco with Lawful Intercept Enabled,115.160.249.194
+Cisco with Lawful Intercept Enabled,92.126.150.246
+Cisco with Lawful Intercept Enabled,94.79.50.165
+Cisco with Lawful Intercept Enabled,94.79.50.197
+Cisco with Lawful Intercept Enabled,196.43.208.7
+Cisco with Lawful Intercept Enabled,94.79.50.180
+Cisco with Lawful Intercept Enabled,202.130.86.255
+Cisco with Lawful Intercept Enabled,87.245.177.26
+Cisco with Lawful Intercept Enabled,113.105.64.65
+Cisco with Lawful Intercept Enabled,94.79.50.133
+Cisco with Lawful Intercept Enabled,196.43.208.254
+Cisco with Lawful Intercept Enabled,173.9.6.125
+Cisco with Lawful Intercept Enabled,210.130.170.42
+Cisco with Lawful Intercept Enabled,94.79.50.221
+Cisco with Lawful Intercept Enabled,94.79.50.172
+Cisco with Lawful Intercept Enabled,207.254.172.56
+Cisco with Lawful Intercept Enabled,94.79.50.199
+Cisco with Lawful Intercept Enabled,50.248.68.25
+Cisco with Lawful Intercept Enabled,50.154.99.68
+Cisco with Lawful Intercept Enabled,79.129.160.254
+Cisco with Lawful Intercept Enabled,94.79.50.161
+Cisco with Lawful Intercept Enabled,41.164.114.134
+Cisco with Lawful Intercept Enabled,94.79.50.157
+Cisco with Lawful Intercept Enabled,94.79.50.223
+Cisco with Lawful Intercept Enabled,162.218.72.35
+Cisco with Lawful Intercept Enabled,223.68.135.90
+Cisco with Lawful Intercept Enabled,2.87.127.122
+Cisco with Lawful Intercept Enabled,94.79.50.213
+Cisco with Lawful Intercept Enabled,41.164.24.114
+Cisco with Lawful Intercept Enabled,81.3.133.69
+Cisco with Lawful Intercept Enabled,82.207.58.30
+Cisco with Lawful Intercept Enabled,81.3.133.66
+Cisco with Lawful Intercept Enabled,81.3.133.68
+Cisco with Lawful Intercept Enabled,202.130.86.249
+Cisco with Lawful Intercept Enabled,196.43.208.1
+Cisco with Lawful Intercept Enabled,94.79.50.132
+Cisco with Lawful Intercept Enabled,216.248.23.43
+Cisco with Lawful Intercept Enabled,92.126.153.198
+Cisco with Lawful Intercept Enabled,89.219.145.221
+Cisco with Lawful Intercept Enabled,94.79.50.167
+Cisco with Lawful Intercept Enabled,92.124.197.162
+Cisco with Lawful Intercept Enabled,202.130.86.248
+Cisco with Lawful Intercept Enabled,94.79.50.163
+Cisco with Lawful Intercept Enabled,94.79.50.135
+Cisco with Lawful Intercept Enabled,94.79.50.156
+Cisco with Lawful Intercept Enabled,94.79.50.164
+Cisco with Lawful Intercept Enabled,154.65.35.24
+Cisco with Lawful Intercept Enabled,94.79.50.159
+Cisco with Lawful Intercept Enabled,154.65.35.31
+Cisco with Lawful Intercept Enabled,101.78.251.148
+Cisco with Lawful Intercept Enabled,94.180.249.95
+Cisco with Lawful Intercept Enabled,94.79.50.212
+Cisco with Lawful Intercept Enabled,94.79.50.196
+Cisco with Lawful Intercept Enabled,94.79.50.220
+Cisco with Lawful Intercept Enabled,81.3.133.73
+Cisco with Lawful Intercept Enabled,223.255.154.134
+Cisco with Lawful Intercept Enabled,196.216.237.166
+Cisco with Lawful Intercept Enabled,154.65.35.25
+Cisco with Lawful Intercept Enabled,94.79.50.183
+Cisco with Lawful Intercept Enabled,94.79.50.217
+Cisco with Lawful Intercept Enabled,94.79.50.219
+Cisco with Lawful Intercept Enabled,81.3.133.75
+Cisco with Lawful Intercept Enabled,172.0.80.209
+Cisco with Lawful Intercept Enabled,81.3.133.72
+Cisco with Lawful Intercept Enabled,94.79.50.216
+Cisco with Lawful Intercept Enabled,196.216.237.170
+Cisco with Lawful Intercept Enabled,112.120.86.114
+Cisco with Lawful Intercept Enabled,101.78.249.145
+Cisco with Lawful Intercept Enabled,196.216.237.202
+Cisco with Lawful Intercept Enabled,94.79.50.181
+Cisco with Lawful Intercept Enabled,101.78.247.154
+Cisco with Lawful Intercept Enabled,98.116.174.131
+Cisco with Lawful Intercept Enabled,94.79.50.173
+Cisco with Lawful Intercept Enabled,185.12.11.2
+Cisco with Lawful Intercept Enabled,121.15.200.33
+Cisco with Lawful Intercept Enabled,94.79.50.215
+Cisco with Lawful Intercept Enabled,94.66.103.128
+Bluecoat Shitweasels,206.204.31.6
+Bluecoat Shitweasels,206.204.200.85
+Bluecoat Shitweasels,206.204.31.15
+Bluecoat Shitweasels,206.204.31.9
+Bluecoat Shitweasels,206.204.31.4
+Bluecoat Shitweasels,220.130.95.189
+Bluecoat Shitweasels,193.15.174.225
+Bluecoat Shitweasels,206.204.31.17
+Bluecoat Shitweasels,84.235.4.51
+Bluecoat Shitweasels,206.204.31.8
+Bluecoat Shitweasels,206.204.31.5
+Bluecoat Shitweasels,206.204.31.14
+Bluecoat Shitweasels,220.130.95.155
+Bluecoat Shitweasels,206.204.31.10
+Bluecoat Shitweasels,80.150.244.150
+Bluecoat Shitweasels,212.107.116.238
+Bluecoat Shitweasels,206.204.31.7
+Bluecoat Shitweasels,206.204.31.13
+Bluecoat Shitweasels,206.204.31.12
+Bluecoat Shitweasels,206.204.200.84
+Bluecoat Shitweasels,193.15.174.224
+Bluecoat Shitweasels,212.46.35.221
+Bluecoat Shitweasels,206.204.31.20
+Bluecoat Shitweasels,220.130.95.154
+Bluecoat Shitweasels,220.130.95.153
+Bluecoat Shitweasels,220.130.95.180
+Bluecoat Shitweasels,202.31.145.87
+Bluecoat Shitweasels,167.212.6.23
+Bluecoat Shitweasels,41.223.105.163
+Bluecoat Shitweasels,206.204.31.6
+Bluecoat Shitweasels,58.137.47.251
+Bluecoat Shitweasels,81.255.178.26
+Bluecoat Shitweasels,81.20.70.68
+Bluecoat Shitweasels,201.116.48.11
+Bluecoat Shitweasels,165.234.168.8
+Bluecoat Shitweasels,223.30.136.214
+Bluecoat Shitweasels,66.36.196.172
+Bluecoat Shitweasels,92.103.209.138
+Bluecoat Shitweasels,76.8.71.99
+Bluecoat Shitweasels,119.252.165.18
+Bluecoat Shitweasels,83.170.6.13
+Bluecoat Shitweasels,206.204.200.85
+Bluecoat Shitweasels,196.15.52.100
+Bluecoat Shitweasels,112.93.250.101
+Bluecoat Shitweasels,77.87.17.206
+Bluecoat Shitweasels,180.222.144.147
+Bluecoat Shitweasels,65.219.44.50
+Bluecoat Shitweasels,210.187.88.87
+Bluecoat Shitweasels,213.208.231.38
+Bluecoat Shitweasels,196.200.74.231
+Bluecoat Shitweasels,168.176.205.5
+Bluecoat Shitweasels,206.204.31.15
+Bluecoat Shitweasels,123.176.62.201
+Bluecoat Shitweasels,167.212.6.29
+Bluecoat Shitweasels,119.31.123.137
+Bluecoat Shitweasels,121.135.59.247
+Bluecoat Shitweasels,131.114.77.225
+Bluecoat Shitweasels,119.31.125.135
+Bluecoat Shitweasels,66.64.144.200
+Bluecoat Shitweasels,203.189.12.11
+Bluecoat Shitweasels,213.208.231.6
+Bluecoat Shitweasels,213.208.231.5
+Bluecoat Shitweasels,46.18.176.13
+Bluecoat Shitweasels,202.48.112.70
+Bluecoat Shitweasels,206.204.31.9
+Bluecoat Shitweasels,213.132.252.226
+Bluecoat Shitweasels,222.66.97.75
+Bluecoat Shitweasels,88.130.232.156
+Bluecoat Shitweasels,80.231.198.220
+Bluecoat Shitweasels,202.1.197.108
+Bluecoat Shitweasels,206.204.31.4
+Bluecoat Shitweasels,213.132.252.221
+Bluecoat Shitweasels,4.35.224.115
+Bluecoat Shitweasels,80.231.198.254
+Bluecoat Shitweasels,76.75.160.89
+Bluecoat Shitweasels,69.62.81.14
+Bluecoat Shitweasels,41.223.104.245
+Bluecoat Shitweasels,203.115.29.165
+Bluecoat Shitweasels,203.94.93.185
+Bluecoat Shitweasels,190.223.51.140
+Bluecoat Shitweasels,194.168.124.6
+Bluecoat Shitweasels,74.199.186.232
+Bluecoat Shitweasels,148.177.128.16
+Bluecoat Shitweasels,130.36.62.135
+Bluecoat Shitweasels,196.22.185.62
+Bluecoat Shitweasels,192.8.40.30
+Bluecoat Shitweasels,213.230.21.66
+Bluecoat Shitweasels,58.246.194.93
+Bluecoat Shitweasels,213.208.231.78
+Bluecoat Shitweasels,211.25.202.131
+Bluecoat Shitweasels,103.225.208.1
+Bluecoat Shitweasels,195.5.173.162
+Bluecoat Shitweasels,200.31.71.102
+Bluecoat Shitweasels,161.31.0.20
+Bluecoat Shitweasels,119.31.123.131
+Bluecoat Shitweasels,203.139.216.5
+Bluecoat Shitweasels,213.132.252.200
+Bluecoat Shitweasels,193.15.174.225
+Bluecoat Shitweasels,138.62.0.24
+Bluecoat Shitweasels,213.132.252.205
+Bluecoat Shitweasels,180.168.88.122
+Bluecoat Shitweasels,198.168.151.68
+Bluecoat Shitweasels,188.21.134.150
+Bluecoat Shitweasels,213.57.127.42
+Bluecoat Shitweasels,206.167.255.92
+Bluecoat Shitweasels,198.0.196.186
+Bluecoat Shitweasels,213.132.252.201
+Bluecoat Shitweasels,155.130.107.20
+Bluecoat Shitweasels,219.92.39.2
+Bluecoat Shitweasels,85.31.64.20
+Bluecoat Shitweasels,213.132.252.180
+Bluecoat Shitweasels,109.74.90.7
+Bluecoat Shitweasels,140.112.41.7
+Bluecoat Shitweasels,213.132.241.13
+Bluecoat Shitweasels,145.232.230.250
+Bluecoat Shitweasels,80.95.212.222
+Bluecoat Shitweasels,209.124.163.43
+Bluecoat Shitweasels,119.31.123.134
+Bluecoat Shitweasels,213.132.252.214
+Bluecoat Shitweasels,130.156.20.10
+Bluecoat Shitweasels,150.93.9.65
+Bluecoat Shitweasels,202.124.193.4
+Bluecoat Shitweasels,198.111.176.254
+Bluecoat Shitweasels,114.31.13.170
+Bluecoat Shitweasels,196.13.141.25
+Bluecoat Shitweasels,210.75.17.170
+Packeteer Shitweasels,210.65.16.10
+Packeteer Shitweasels,41.197.4.19
+Packeteer Shitweasels,212.36.84.79
+Packeteer Shitweasels,212.88.97.57
+Packeteer Shitweasels,206.49.178.45
+Packeteer Shitweasels,65.206.52.190
+Packeteer Shitweasels,222.124.222.114
+Packeteer Shitweasels,194.33.186.30
+Packeteer Shitweasels,200.24.109.2
+Packeteer Shitweasels,63.165.176.179
+Packeteer Shitweasels,202.237.114.51
+Packeteer Shitweasels,160.186.254.200
+Packeteer Shitweasels,213.251.65.243
+Packeteer Shitweasels,59.106.91.250
+Packeteer Shitweasels,202.39.234.3
+Packeteer Shitweasels,66.216.32.70
+Packeteer Shitweasels,196.25.43.214
+Packeteer Shitweasels,77.240.81.30
+Packeteer Shitweasels,200.31.78.154
+Packeteer Shitweasels,212.55.143.123
+Packeteer Shitweasels,212.98.137.65
+Packeteer Shitweasels,199.8.200.29
+Packeteer Shitweasels,202.57.63.35
+Packeteer Shitweasels,61.9.8.92
+Packeteer Shitweasels,113.23.152.7
+Packeteer Shitweasels,119.59.105.2
+Packeteer Shitweasels,173.210.67.195
+Packeteer Shitweasels,220.227.8.214
+Packeteer Shitweasels,59.124.215.163
+Packeteer Shitweasels,58.26.233.100
+Packeteer Shitweasels,194.25.8.20
+Packeteer Shitweasels,64.242.2.52
+Packeteer Shitweasels,57.66.8.26
+Packeteer Shitweasels,190.80.33.74
+Packeteer Shitweasels,62.159.58.20
+Packeteer Shitweasels,212.240.125.158
+Packeteer Shitweasels,195.11.209.11
+Packeteer Shitweasels,125.17.1.106
+Packeteer Shitweasels,209.63.6.2
+Packeteer Shitweasels,148.177.128.15
+Packeteer Shitweasels,210.253.52.46
+Packeteer Shitweasels,57.74.229.121
+Packeteer Shitweasels,202.188.170.194
+Packeteer Shitweasels,59.160.23.85
+Packeteer Shitweasels,66.216.32.23
+Packeteer Shitweasels,129.71.209.13
+Packeteer Shitweasels,69.63.64.84
+Packeteer Shitweasels,201.224.86.215
+Packeteer Shitweasels,203.82.250.50
+Packeteer Shitweasels,58.185.86.238
+Packeteer Shitweasels,216.184.116.21
+Packeteer Shitweasels,58.26.147.132
+Packeteer Shitweasels,121.161.251.26
+Packeteer Shitweasels,213.58.161.5
+Packeteer Shitweasels,220.92.102.240
+Packeteer Shitweasels,41.211.124.242
+Packeteer Shitweasels,203.75.44.187
+Packeteer Shitweasels,125.22.35.163
+Packeteer Shitweasels,178.78.120.226
+Packeteer Shitweasels,200.23.64.250
+Packeteer Shitweasels,146.255.186.19
+Packeteer Shitweasels,222.126.143.72
+Packeteer Shitweasels,209.5.96.141
+Packeteer Shitweasels,62.172.213.3
+Packeteer Shitweasels,193.238.28.126
+Packeteer Shitweasels,71.91.231.190
+Packeteer Shitweasels,148.208.149.251
+Packeteer Shitweasels,196.36.232.10
+Packeteer Shitweasels,208.32.47.252
+Packeteer Shitweasels,83.143.12.221
+Packeteer Shitweasels,20.134.225.85
+Packeteer Shitweasels,213.14.127.35
+Packeteer Shitweasels,195.24.223.83
+Packeteer Shitweasels,66.8.68.150
+Packeteer Shitweasels,103.244.14.194
+Packeteer Shitweasels,62.28.247.122
+Packeteer Shitweasels,213.193.45.169
+Packeteer Shitweasels,154.44.189.192
+Packeteer Shitweasels,211.25.14.182
+Packeteer Shitweasels,187.141.133.49
+Packeteer Shitweasels,38.96.245.132
+Packeteer Shitweasels,83.143.8.228
+Packeteer Shitweasels,41.222.240.12
+Packeteer Shitweasels,61.208.194.138
+Packeteer Shitweasels,168.215.60.21
+Packeteer Shitweasels,41.206.19.18
+Packeteer Shitweasels,173.161.78.195
+Packeteer Shitweasels,195.57.52.113
+Packeteer Shitweasels,203.189.8.147
+Packeteer Shitweasels,202.44.55.244
+Packeteer Shitweasels,200.88.255.26
+Packeteer Shitweasels,119.46.49.98
+Packeteer Shitweasels,85.40.99.3
