@@ -4,6 +4,7 @@ import trparse
 import requests
 import csv
 import sys
+from distutils.spawn import find_executable
 
 def traceroute(target):
     # I was gonna do this in Scapy but I value my Sanity.
@@ -17,6 +18,12 @@ def traceroute(target):
     return ipaddrs
 
 def main():
+    print "{?} Checking $PATH for traceroute..."
+    if find_executable("traceroute"):
+        print "{+} Traceroute found in $PATH"
+    else:
+        sys.exit("{-} Traceroute not found")
+
     try:
         print "{+} Downloading our list of evil DDoS numbers..."
         r = requests.get("http://surveilling.me/stuff/evil_ips.csv")
